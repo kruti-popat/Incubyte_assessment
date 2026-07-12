@@ -22,11 +22,11 @@ A full-stack car dealership inventory management application built with **Java S
 
 ## Screenshots
 
-### Login Page
+### Register Page
 
 ![Login Page](screenshots/login.png)
 
-### Register Page
+### Login Page
 
 ![Register Page](screenshots/register.png)
 
