@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Existing
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+
+# Java
+target/
+*.class
+
+# Node
+node_modules/
+
+# Environment
+.env
