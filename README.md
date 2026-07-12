@@ -20,6 +20,26 @@ A full-stack car dealership inventory management application built with **Java S
 - Admin-only delete and restock
 - Responsive React dashboard
 
+## Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Register Page
+
+![Register Page](screenshots/register.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+![Dashboard2](screenshots/dashboard_2.png)
+
+### User dashboard
+
+![User dashboard](screenshots/user_dashboard.png)
+
 ## API Endpoints
 
 | Method | Endpoint                      | Auth     | Description              |
